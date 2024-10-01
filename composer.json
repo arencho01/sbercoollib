@@ -1,0 +1,21 @@
+{
+    "name": "vendor/sbercoollib",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "SberCoollib\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aren"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+      "ext-curl": "*",
+      "ext-simplexml": "*",
+      "ext-mbstring": "*"
+    }
+}
