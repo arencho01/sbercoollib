@@ -1,19 +1,19 @@
 <?php return array(
     'root' => array(
-        'name' => 'vendor/sbercoollib',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'name' => 'sbercoollib/sbercoollib',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => '5f24ed2b5faa9bba3c51dd329839c7d093009a6b',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        'vendor/sbercoollib' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+        'sbercoollib/sbercoollib' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => '5f24ed2b5faa9bba3c51dd329839c7d093009a6b',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
